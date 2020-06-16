@@ -1,0 +1,30 @@
+body{
+    background: url("../images/gym.jpg") no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Dancing Script', cursive;
+}
+div
+{
+    background-color:firebrick;
+    WIDTH:50%;
+    MARGIN:100px auto;
+    text-align: center;
+    border-radius: 20px;
+    
+    
+}
+button{
+    background: gray;
+    padding: 8px 5px 8px 5px;
+    color: black;
+    font-size: 2em;
+    border-radius: 10px
+}
+h1{
+    font-size: 4em;
+    
+}
+p{
+    font-size: 1.5em;
+    font-family: monospace
+}
